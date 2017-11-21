@@ -1,0 +1,65 @@
+/*
+Theme Name: Morls Blog Theme
+Author: Morls
+Author URI: www.github.com/pinoywebs123
+Version: 1.0.0
+Description: Malakas malaki at hindi sakitin.
+Tags: wordpress free blog theme, blog theme, free theme,
+*/
+
+#banner{
+ background-image:url('http://localhost/wordpress/wp-content/themes/morlsblog/images/banner.png');
+background-repeat: no-repeat;
+background-size:100% auto;
+height: 400px;
+
+}
+header .navbar-default{
+	margin-bottom: 0;
+	background: #ecf0f1 !important;
+	border-radius: 0;
+	opacity: 0.8;
+	
+}
+header .navbar-nav>li>a{
+	color: #2980b9 !important;
+	display: inline-block;
+}
+header .navbar-header .navbar-brand{
+	padding: 10px 10px;
+}
+.navbar-default{
+	background: #3498db !important;
+	border-radius: 0;
+}
+.navbar-nav>li>a{
+	color: #fff !important;
+}
+#site-footer{
+	
+	background: #34495e;
+	color: #fff;
+}
+#bottom-footer{
+
+	color: #fff;
+	background: #2c3e50;
+}
+
+.post{
+	padding: 5px 5px;
+}
+body{
+	background: #95a5a6;
+}
+.container{
+	background: #fff;
+}
+#s{
+	color: #fff;
+	background: transparent;
+	border: 1px solid #fff;
+}
+.searchform{
+	margin-left: 10px;
+}
